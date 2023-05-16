@@ -203,9 +203,9 @@ public class VDBService {
 	
 	
 	
-	private String url = "jdbc:mysql://cs3.calstatela.edu/cs3220stu100";
-	private String username = "cs3220stu100";
-	private String password = "J3j1Gnjkw9Wm";
+	private String url = "jdbc:mysql://cs3.calstatela.edu/username";
+	private String username = "username";
+	private String password = "password";
 	private Connection connection;
 	
 }
